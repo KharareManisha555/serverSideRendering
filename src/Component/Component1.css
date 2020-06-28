@@ -1,0 +1,13 @@
+ 
+.homepage h2{
+    color: var(--orange-color);
+    font-weight: bold;
+}
+.homepage p{
+    text-align: justify;
+    color: var(--black-color);
+    font-size: 14px;
+    line-height: 22px;
+    /* padding: 10px; */
+    text-align: justify;
+}
